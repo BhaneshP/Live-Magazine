@@ -1,0 +1,15 @@
+
+create database ip;
+use ip;
+create table sedan(sno int(4),name char(40),company varchar(40),path varchar(80),year integer(10));
+Insert into sedan values(1,"KTM RC200","KTM","Z:\\\Project\\\Bikes\\\KTM.mp4",2014);
+Insert into sedan values(2,"Indian Scout","Indian Motorcycle Company","Z:\\\Project\\\Bikes\\\Indian Scout.mp4",2014);
+Insert into sedan values(3,"Kawasaki Z250","Kawasaki","Z:\\\Project\\\Bikes\\\Kawasaki Z250.mp4",2014);
+Insert into sedan values(4," Hyosung Aquila 250 ","Hyosung Aquila","Z:\\\Project\\\Bikes\\\Hyosung Aquila 250.mp4",2015);
+Insert into sedan values(5," Audi R8 V10 Plus ","Audi R8 V10 Plus","Z:\\\Project\\\cars\\\Audi R8 V10 Plus.mp4",2016);
+Insert into sedan values(6," Jaguar F-Type Coupe ","Jaguar","Z:\\\Project\\\cars\\\Jaguar F-Type Coupe.mp4",2016);
+Insert into sedan values(7," Porsche 911  ","Porsche","Z:\\\Project\\\cars\\\Porsche 911.mp4",2015);
+
+
+
+
